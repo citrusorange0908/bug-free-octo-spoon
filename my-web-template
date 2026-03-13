@@ -1,0 +1,17 @@
+my-web-template/
+│
+├─ package.json
+├─ server.js
+├─ database.db
+│
+├─ db/
+│   └─ db.js
+│
+├─ routes/
+│   └─ items.js
+│
+├─ views/
+│   └─ index.ejs
+│
+└─ public/
+    └─ style.css
